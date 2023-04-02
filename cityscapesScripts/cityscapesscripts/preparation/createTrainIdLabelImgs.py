@@ -27,6 +27,7 @@ import os, glob, sys
 from cityscapesscripts.helpers.csHelpers import printError
 from cityscapesscripts.preparation.json2labelImg import json2labelImg
 
+#os.environ['CITYSCAPES_DATASET'] = "你的CityScapes  gtFine路径"
 # The main method
 def main():
     # Where to look for Cityscapes

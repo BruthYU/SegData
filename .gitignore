@@ -1,3 +1,6 @@
 cityscapesScripts/gtCoarse
 cityscapesScripts/gtFine
 cityscapesScripts/leftImg8bit
+cityscapes_kaggle/train
+cityscapes_kaggle/val
+cityscapes_kaggle/cityscapes_data

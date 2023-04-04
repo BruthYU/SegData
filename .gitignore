@@ -4,3 +4,7 @@ cityscapesScripts/leftImg8bit
 cityscapes_kaggle/train
 cityscapes_kaggle/val
 cityscapes_kaggle/cityscapes_data
+ISIC/ISBI2016_ISIC_Part3B_Test_Data
+ISIC/ISBI2016_ISIC_Part3B_Training_Data
+ISIC/ISBI2016_ISIC_Part3B_Test_GroundTruth.csv
+ISIC/ISBI2016_ISIC_Part3B_Training_GroundTruth.csv
